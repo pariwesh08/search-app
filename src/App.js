@@ -4,7 +4,7 @@ import Menu from './components/router';
 class App extends Component {//es6
   render() {
     return (<div>
-        <div>React</div>
+        <div>React changes</div>
         <Menu></Menu>
         <router-outlet></router-outlet>
       </div>
